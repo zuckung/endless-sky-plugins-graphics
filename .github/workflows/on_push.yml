@@ -44,7 +44,7 @@ jobs:
                     subfolders.append('images/' + ai + '/' + each + '/')
                 for subfolder in subfolders:
                   sub2 = os.listdir(subfolder)
-                  for each2 in wub:
+                  for each2 in sub2:
                     output.writelines(each2 + '\n')
         shell: python
       - name: Commit file
