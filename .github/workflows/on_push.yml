@@ -21,7 +21,7 @@ jobs:
         run: |
           import os
           import subprocess
-          os.chdir('/images')
+          os.chdir('images/')
           subprocess.run(["zip", "-r", "/../images.zip", p],
             stdout=subprocess.DEVNULL)
         shell: python
