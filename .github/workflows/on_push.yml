@@ -28,6 +28,18 @@ jobs:
           replacesArtifacts: true
           updateOnlyUnreleased: false
           artifacts: "*.zip"
+      - name: del Zip
+        run: |
+          import os
+          os.remove('images.zip')
+          aifolder = os.listdir('images/')
+          for ai in aifolder:
+            sub1 = os.listdir('images/' + ai + '/')
+            for each in sub1:
+              if each.isfile():
+                with open('images.md', 'w') as output:
+                  output.writelines(each + '\n')
+        shell: python
       - name: Commit file
         run: |
           git config user.name "zuckung" 
