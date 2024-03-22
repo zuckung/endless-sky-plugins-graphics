@@ -41,7 +41,7 @@ jobs:
                   if os.path.isfile('images/' + ai + '/' + each):
                     output.writelines(each + '\n')
                   if os.path.isdir('images/' + ai + '/' + each):
-                    subfolder.append('images/' + ai + '/' + each + '/')
+                    subfolders.append('images/' + ai + '/' + each + '/')
                 for subfolder in subfolders:
                   sub2 = os.listdir(subfolder)
                   for each2 in wub:
