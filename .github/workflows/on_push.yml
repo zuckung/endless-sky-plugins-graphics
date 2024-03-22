@@ -33,10 +33,12 @@ jobs:
           subfolders = []
           os.remove('images.zip')
           aifolder = os.listdir('images/')
+          aifolder = sorted(aifolder)
           with open('images.md', 'w') as output:
             for ai in aifolder:
               if os.path.isdir('images/' + ai):
                 sub1 = os.listdir('images/' + ai + '/')
+                sub1 = sorted(sub1)
                 for each in sub1:
                   if os.path.isfile('images/' + ai + '/' + each):
                     output.writelines(each + '\n')
@@ -44,6 +46,7 @@ jobs:
                     subfolders.append('images/' + ai + '/' + each + '/')
                 for subfolder in subfolders:
                   sub2 = os.listdir(subfolder)
+                  sub2 = sorted(sub2)
                   for each2 in sub2:
                     output.writelines(each2 + '\n')
         shell: python
