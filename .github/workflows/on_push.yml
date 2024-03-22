@@ -37,13 +37,13 @@ jobs:
             for ai in aifolder:
               if os.path.isdir('images/' + ai):
                 sub1 = os.listdir('images/' + ai + '/')
-                  for each in sub1:
-                    if os.path.isfile('images/' + ai + '/' + each):
-                      output.writelines(each + '\n')
-                    if os.path.isdir('images/' + ai + '/' + each):
-                      sub2 = os.listdir('images/' + ai + '/' + each + '/')
-                      for each2 in sub2:
-                      output.writelines(each2 + '\n')
+                for each in sub1:
+                  if os.path.isfile('images/' + ai + '/' + each):
+                    output.writelines(each + '\n')
+                  if os.path.isdir('images/' + ai + '/' + each):
+                    sub2 = os.listdir('images/' + ai + '/' + each + '/')
+                    for each2 in sub2:
+                    output.writelines(each2 + '\n')
         shell: python
       - name: Commit file
         run: |
