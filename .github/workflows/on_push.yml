@@ -43,7 +43,7 @@ jobs:
                   if os.path.isdir('images/' + ai + '/' + each):
                     sub2 = os.listdir('images/' + ai + '/' + each + '/')
                     for each2 in sub2:
-                    output.writelines(each2 + '\n')
+                      output.writelines(each2 + '\n')
         shell: python
       - name: Commit file
         run: |
