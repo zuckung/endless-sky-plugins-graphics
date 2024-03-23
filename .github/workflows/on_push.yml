@@ -41,14 +41,14 @@ jobs:
                 sub1 = sorted(sub1)
                 for each in sub1:
                   if os.path.isfile('images/' + ai + '/' + each):
-                    output.writelines(each + '\n')
+                    output.writelines('<img src="https://raw.githubusercontent.com/zuckung/endless-sky-plugins-graphics/master/images/' + ai + '/' + each + '" width="200">' + '\n')
                   if os.path.isdir('images/' + ai + '/' + each):
                     subfolders.append('images/' + ai + '/' + each + '/')
                 for subfolder in subfolders:
                   sub2 = os.listdir(subfolder)
                   sub2 = sorted(sub2)
                   for each2 in sub2:
-                    output.writelines(each2 + '\n')
+                    output.writelines('<img src="https://raw.githubusercontent.com/zuckung/endless-sky-plugins-graphics/master/' + each2 + '" width="200">' + '\n')
         shell: python
       - name: Commit file
         run: |
