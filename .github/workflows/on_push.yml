@@ -44,11 +44,12 @@ jobs:
                     output.writelines('<img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/' + ai + '/' + each + '?raw=true" width="200">' + '\n')
                   if os.path.isdir('images/' + ai + '/' + each):
                     subfolders.append('images/' + ai + '/' + each + '/')
-                for subfolder in subfolders:
-                  sub2 = os.listdir(subfolder)
-                  sub2 = sorted(sub2)
-                  for each2 in sub2:
-                    output.writelines('<img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/' + each2 + '?raw=true" width="200">' + '\n')
+              for subfolder in subfolders:
+                sub2 = os.listdir(subfolder)
+                sub2 = sorted(sub2)
+                for each2 in sub2:
+                  output.writelines('<img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/' + subfolder + each2 + '?raw=true" width="200">' + '\n')
+                subfolders= []
         shell: python
       - name: Commit file
         run: |
