@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/zuckung/endless-sky-plugins-graphics/master/images/craiyon/SFR-100_android.png" width="200">
+<img src="https://raw.githubusercontent.com/zuckung/endless-sky-plugins-graphics/blob/main/images/craiyon/SFR-100_android.png" width="200">
 <img src="https://raw.githubusercontent.com/zuckung/endless-sky-plugins-graphics/master/images/craiyon/alienpistol1.png" width="200">
 <img src="https://raw.githubusercontent.com/zuckung/endless-sky-plugins-graphics/master/images/craiyon/book.png" width="200">
 <img src="https://raw.githubusercontent.com/zuckung/endless-sky-plugins-graphics/master/images/craiyon/cat.png" width="200">
