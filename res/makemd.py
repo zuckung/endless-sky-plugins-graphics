@@ -8,7 +8,7 @@ def makemd():
 	aifolder = sorted(aifolder)
 	with open('images.md', 'w') as output:
 		for ai in aifolder:
-			if os.path.isdir('images/' + ai):
+			if os.path.isdir('images/' + ai + '/'):
 				sub1 = os.listdir('images/' + ai + '/')
 				sub1 = sorted(sub1)
 				output.writelines('images/' + ai + '\n')
