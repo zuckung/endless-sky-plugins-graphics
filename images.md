@@ -270,23 +270,24 @@ city3.png</td>
 city4.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/cloud.png?raw=true" width="200"><br>
 cloud.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/haze-desert.png?raw=true" width="200"><br>
-haze-desert.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/expedition.png?raw=true" width="200"><br>
+expedition.png</td>
 	</tr>
 	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/haze-desert.png?raw=true" width="200"><br>
+haze-desert.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/haze-forest.png?raw=true" width="200"><br>
 haze-forest.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/haze-water.png?raw=true" width="200"><br>
 haze-water.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/lake1.png?raw=true" width="200"><br>
-lake1.png</td>
 	</tr>
 	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/lake1.png?raw=true" width="200"><br>
+lake1.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/metalobject.png?raw=true" width="200"><br>
 metalobject.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/planet.map/planetgalaxy.png?raw=true" width="200"><br>
 planetgalaxy.png</td>
-		<td></td>
 	</tr>
 </table>
 
