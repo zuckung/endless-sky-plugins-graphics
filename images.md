@@ -231,26 +231,26 @@ wanderer10.png</td>
 images/galactic.capital.investment
 <table>
 	<tr>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/Sci-fi_bank.png?raw=true" width="200"><br>
-Sci-fi_bank.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/alien_vegetation.png?raw=true" width="200"><br>
-alien_vegetation.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/big_city.png?raw=true" width="200"><br>
-big_city.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/Sci-fi_bank.jpg?raw=true" width="200"><br>
+Sci-fi_bank.jpg</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/alien_vegetation.jpg?raw=true" width="200"><br>
+alien_vegetation.jpg</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/big_city.jpg?raw=true" width="200"><br>
+big_city.jpg</td>
 	</tr>
 	<tr>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/colonists.png?raw=true" width="200"><br>
-colonists.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/galactic_capital.png?raw=true" width="200"><br>
-galactic_capital.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/colonists.jpg?raw=true" width="200"><br>
+colonists.jpg</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/galactic_capital.jpg?raw=true" width="200"><br>
+galactic_capital.jpg</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/gold_figur.png?raw=true" width="200"><br>
 gold_figur.png</td>
 	</tr>
 	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/ship02.png?raw=true" width="200"><br>
 ship02.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/spaceport.png?raw=true" width="200"><br>
-spaceport.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/galactic.capital.investment/spaceport.jpg?raw=true" width="200"><br>
+spaceport.jpg</td>
 		<td></td>
 	</tr>
 </table>
@@ -296,8 +296,8 @@ images/real.fluff
 	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/cat_figurine.png?raw=true" width="200"><br>
 cat_figurine.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/dark_alley.png?raw=true" width="200"><br>
-dark_alley.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/dark_alley.jpg?raw=true" width="200"><br>
+dark_alley.jpg</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_cat.png?raw=true" width="200"><br>
 fluffy_cat.png</td>
 	</tr>
@@ -322,16 +322,16 @@ fluffy_raccoon.png</td>
 fluffy_squirrel.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/greenhouse.png?raw=true" width="200"><br>
 greenhouse.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/hamsterport.png?raw=true" width="200"><br>
-hamsterport.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/hamsterport.jpg?raw=true" width="200"><br>
+hamsterport.jpg</td>
 	</tr>
 	<tr>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/piratecabin.png?raw=true" width="200"><br>
-piratecabin.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/piratecabin.jpg?raw=true" width="200"><br>
+piratecabin.jpg</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/poodle.png?raw=true" width="200"><br>
 poodle.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/rainforest.png?raw=true" width="200"><br>
-rainforest.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/rainforest.jpg?raw=true" width="200"><br>
+rainforest.jpg</td>
 	</tr>
 </table>
 
