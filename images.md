@@ -147,84 +147,99 @@ ecmwm10.png</td>
 galaxy_hologram.png</td>
 	</tr>
 	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/gegno01.png?raw=true" width="200"><br>
+gegno01.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/gegno02.png?raw=true" width="200"><br>
+gegno02.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/gegno03.png?raw=true" width="200"><br>
+gegno03.png</td>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/gegno04.png?raw=true" width="200"><br>
+gegno04.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/gegno05.png?raw=true" width="200"><br>
+gegno05.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/hai02.png?raw=true" width="200"><br>
 hai02.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/hai05.png?raw=true" width="200"><br>
 hai05.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/hai06.png?raw=true" width="200"><br>
 hai06.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/hai07.png?raw=true" width="200"><br>
 hai07.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/hai10.png?raw=true" width="200"><br>
 hai10.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/kimek01.png?raw=true" width="200"><br>
 kimek01.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/kimek02.png?raw=true" width="200"><br>
 kimek02.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/kimek03.png?raw=true" width="200"><br>
 kimek03.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/kimek04.png?raw=true" width="200"><br>
 kimek04.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/kimek05.png?raw=true" width="200"><br>
 kimek05.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/korath03.png?raw=true" width="200"><br>
 korath03.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/korath04.png?raw=true" width="200"><br>
 korath04.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/korath05.png?raw=true" width="200"><br>
 korath05.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/korath07.png?raw=true" width="200"><br>
 korath07.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/korath10.png?raw=true" width="200"><br>
 korath10.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/remnant01.png?raw=true" width="200"><br>
 remnant01.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/remnant02.png?raw=true" width="200"><br>
 remnant02.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/remnant04.png?raw=true" width="200"><br>
 remnant04.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/remnant06.png?raw=true" width="200"><br>
 remnant06.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/remnant09.png?raw=true" width="200"><br>
 remnant09.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/saryd01.png?raw=true" width="200"><br>
 saryd01.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/saryd02.png?raw=true" width="200"><br>
 saryd02.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/saryd03.png?raw=true" width="200"><br>
 saryd03.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/saryd04.png?raw=true" width="200"><br>
 saryd04.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/saryd05.png?raw=true" width="200"><br>
 saryd05.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer01.png?raw=true" width="200"><br>
 wanderer01.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer02.png?raw=true" width="200"><br>
 wanderer02.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer05.png?raw=true" width="200"><br>
 wanderer05.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer06.png?raw=true" width="200"><br>
 wanderer06.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer10.png?raw=true" width="200"><br>
 wanderer10.png</td>
+		<td></td>
 	</tr>
 </table>
 
