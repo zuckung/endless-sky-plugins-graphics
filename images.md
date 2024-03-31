@@ -320,18 +320,17 @@ fluffy_raccoon.png</td>
 	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_squirrel.png?raw=true" width="200"><br>
 fluffy_squirrel.png</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/greenhouse.png?raw=true" width="200"><br>
-greenhouse.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/hamsterport.jpg?raw=true" width="200"><br>
 hamsterport.jpg</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/piratecabin.jpg?raw=true" width="200"><br>
 piratecabin.jpg</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/poodle.png?raw=true" width="200"><br>
 poodle.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/rainforest.jpg?raw=true" width="200"><br>
 rainforest.jpg</td>
+		<td></td>
 	</tr>
 </table>
 
