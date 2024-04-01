@@ -364,10 +364,16 @@ images/snowfeather.robotics
 	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/snowfeather.robotics/3hai.jpeg?raw=true" width="200"><br>
 3hai.jpeg</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/snowfeather.robotics/3hai_parc.jpeg?raw=true" width="200"><br>
+3hai_parc.jpeg</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/snowfeather.robotics/SFR-100_android.png?raw=true" width="200"><br>
 SFR-100_android.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/snowfeather.robotics/hai_in_lab.jpeg?raw=true" width="200"><br>
 hai_in_lab.jpeg</td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 
