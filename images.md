@@ -1,6 +1,22 @@
 images/bunrodea.missions
 <table>
 	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/bunrodea.missions/alien_screen.png?raw=true" width="200"><br>
+alien_screen.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/bunrodea.missions/bunrodea04.png?raw=true" width="200"><br>
+bunrodea04.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/bunrodea.missions/bunrodea05.png?raw=true" width="200"><br>
+bunrodea05.png</td>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/bunrodea.missions/bunrodea06.png?raw=true" width="200"><br>
+bunrodea06.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/bunrodea.missions/bunrodea08.png?raw=true" width="200"><br>
+bunrodea08.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/bunrodea.missions/bunrodea10.png?raw=true" width="200"><br>
+bunrodea10.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/bunrodea.missions/device03.png?raw=true" width="200"><br>
 device03.png</td>
 		<td></td>
