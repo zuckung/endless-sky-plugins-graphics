@@ -427,42 +427,49 @@ planetgalaxy.png</td>
 images/real.fluff
 <table>
 	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/alien.png?raw=true" width="200"><br>
+alien.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/alien_eggs.jpg?raw=true" width="200"><br>
+alien_eggs.jpg</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/cat_figurine.png?raw=true" width="200"><br>
 cat_figurine.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/dark_alley.jpg?raw=true" width="200"><br>
 dark_alley.jpg</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_cat.png?raw=true" width="200"><br>
 fluffy_cat.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_ferret.png?raw=true" width="200"><br>
 fluffy_ferret.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_hamster.png?raw=true" width="200"><br>
 fluffy_hamster.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_koala.png?raw=true" width="200"><br>
 fluffy_koala.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_ocelot.png?raw=true" width="200"><br>
 fluffy_ocelot.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_rabbit.png?raw=true" width="200"><br>
 fluffy_rabbit.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_raccoon.png?raw=true" width="200"><br>
 fluffy_raccoon.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/fluffy_squirrel.png?raw=true" width="200"><br>
 fluffy_squirrel.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/hamsterport.jpg?raw=true" width="200"><br>
 hamsterport.jpg</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/piratecabin.jpg?raw=true" width="200"><br>
 piratecabin.jpg</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/poodle.png?raw=true" width="200"><br>
 poodle.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/rainforest.jpg?raw=true" width="200"><br>
 rainforest.jpg</td>
+		<td></td>
 		<td></td>
 	</tr>
 </table>
