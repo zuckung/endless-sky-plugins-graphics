@@ -581,8 +581,14 @@ space_fauna11.png</td>
 space_fauna12.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/space.fauna/space_fauna13.png?raw=true" width="200"><br>
 space_fauna13.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/space.fauna/space_fauna14.png?raw=true" width="200"><br>
+space_fauna14.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/space.fauna/yellow_caves.jpg?raw=true" width="200"><br>
 yellow_caves.jpg</td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 
