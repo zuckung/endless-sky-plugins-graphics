@@ -528,17 +528,18 @@ koalas_zoo.jpg</td>
 	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/man_rabbit.jpg?raw=true" width="200"><br>
 man_rabbit.jpg</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/nostromo.png?raw=true" width="200"><br>
+nostromo.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/pet_store.jpg?raw=true" width="200"><br>
 pet_store.jpg</td>
-		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/piratecabin.jpg?raw=true" width="200"><br>
-piratecabin.jpg</td>
 	</tr>
 	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/piratecabin.jpg?raw=true" width="200"><br>
+piratecabin.jpg</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/poodle.png?raw=true" width="200"><br>
 poodle.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/real.fluff/rainforest.jpg?raw=true" width="200"><br>
 rainforest.jpg</td>
-		<td></td>
 	</tr>
 </table>
 
