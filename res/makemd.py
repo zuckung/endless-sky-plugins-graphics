@@ -88,7 +88,7 @@ def makemd():
 				subfolders= []
 	with open('res/template.txt', 'r') as input:
 		template = input.readlines()
-	with open('../README.md', 'w') as target:
+	with open('README.md', 'w') as target:
 		target.writelines(template)
 		for each in mds:
 			target.writelines('<a href="res/md/' + each + '.md">' + each + '.md</a><br>')
