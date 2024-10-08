@@ -217,18 +217,33 @@ saryd04.png</td>
 saryd05.png</td>
 	</tr>
 	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/successor01.png?raw=true" width="200"><br>
+successor01.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/successor02.png?raw=true" width="200"><br>
+successor02.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/successor03.png?raw=true" width="200"><br>
+successor03.png</td>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/successor04.png?raw=true" width="200"><br>
+successor04.png</td>
+		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/successor05.png?raw=true" width="200"><br>
+successor05.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer01.png?raw=true" width="200"><br>
 wanderer01.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer02.png?raw=true" width="200"><br>
 wanderer02.png</td>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer05.png?raw=true" width="200"><br>
 wanderer05.png</td>
-	</tr>
-	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer06.png?raw=true" width="200"><br>
 wanderer06.png</td>
+	</tr>
+	<tr>
 		<td><img src="https://github.com/zuckung/endless-sky-plugins-graphics/blob/main/images/expert.crew.members/wanderer10.png?raw=true" width="200"><br>
 wanderer10.png</td>
+		<td></td>
 		<td></td>
 	</tr>
 </table>
